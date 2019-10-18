@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.16)  17 OCT 2019 22:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.16)  18 OCT 2019 16:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -986,211 +986,136 @@ e
 ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 9.
 \c@lstlisting=\count191
-LaTeX Font Info:    Try loading font information for C19+rm on input line 16.
+LaTeX Font Info:    Try loading font information for C19+rm on input line 14.
 
 (c:/texlive/2017/texmf-dist/tex/latex/ctex/fd/c19rm.fd
 File: c19rm.fd 2017/04/01 v2.4.9 Chinese font definition (CTEX)
-)<<c1957.cmap>><<c1960.cmap>><<c1946.cmap>><<c1937.cmap>><<c1942.cmap>><<c1938.
-cmap>><<c1940.cmap>><<c1952.cmap>><<c1964.cmap>><<c1958.cmap>><<c1943.cmap>>
+)<<c1964.cmap>><<c1943.cmap>><<c1945.cmap>><<c1960.cmap>><<c1940.cmap>><<c1961.
+cmap>><<c1946.cmap>><<c1965.cmap>><<c1957.cmap>><<c1937.cmap>><<c1942.cmap>><<c
+1938.cmap>><<c1955.cmap>><<c1952.cmap>><<c1941.cmap>><<c1948.cmap>>
 LaTeX Font Info:    Try loading font information for C19+hei on input line 18.
 
 (c:/texlive/2017/texmf-dist/tex/latex/zhmetrics/c19hei.fd
 File: c19hei.fd 2009/09/23 4.8.2
-)<<c1951.cmap>><<c1948.cmap>><<c1963.cmap>>
-LaTeX Font Info:    Try loading font information for U+txsya on input line 20.
+)<<c1963.cmap>><<c1939.cmap>>
+LaTeX Font Info:    Try loading font information for U+txsya on input line 24.
  (c:/texlive/2017/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyb on input line 20.
+LaTeX Font Info:    Try loading font information for U+txsyb on input line 24.
 
 (c:/texlive/2017/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txmia on input line 20.
+LaTeX Font Info:    Try loading font information for U+txmia on input line 24.
 
 (c:/texlive/2017/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyc on input line 20.
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 24.
 
 (c:/texlive/2017/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )<<c1926.cmap>>
 Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (
-quanjiao) on input line 20.
-<<c1925.cmap>><<c1939.cmap>><<c1961.cmap>><<c1955.cmap>><<c1954.cmap>><<c1962.c
-map>><<c1941.cmap>><<c1950.cmap>><<c1947.cmap>><<c1956.cmap>><<c1936.cmap>><<c1
-953.cmap>><<c1944.cmap>><<c1959.cmap>><<c1945.cmap>><<c1949.cmap>><<c1965.cmap>
->
-LaTeX Font Info:    Try loading font information for OT1+txss on input line 48.
+quanjiao) on input line 24.
+<<c1953.cmap>><<c1962.cmap>><<c1936.cmap>><<c1947.cmap>><<c1949.cmap>><<c1925.c
+map>><<c1951.cmap>><<c1958.cmap>><<c1959.cmap>><<c1956.cmap>><<c1954.cmap>><<c1
+944.cmap>><<c1950.cmap>>
+LaTeX Font Info:    Try loading font information for OT1+txss on input line 51.
 
-
-(c:/texlive/2017/texmf-dist/tex/latex/txfonts/ot1txss.fd
+ (c:/texlive/2017/texmf-dist/tex/latex/txfonts/ot1txss.fd
 File: ot1txss.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 10.01236pt on input line 48.
+(Font)              scaled to size 10.01236pt on input line 51.
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 7.15169pt on input line 48.
-LaTeX Font Info:    Try loading font information for C19+zhhei on input line 48
+(Font)              scaled to size 7.15169pt on input line 51.
+LaTeX Font Info:    Try loading font information for C19+zhhei on input line 51
 .
 
 (c:/texlive/2017/texmf-dist/tex/latex/zhmetrics/c19zhhei.fd
 File: c19zhhei.fd 2009/09/23 4.8.2
 ) [1
 
-]
-Package CJKpunct Info: use punctuation spaces for family 'zhkai' with punctstyl
-e (quanjiao) on input line 56.
+] [2]
+<source/2-1.jpg, id=107, 202.50656pt x 202.50656pt>
+File: source/2-1.jpg Graphic file (type jpg)
+ <use source/2-1.jpg>
+Package pdftex.def Info: source/2-1.jpg used on input line 106.
+(pdftex.def)             Requested size: 124.62439pt x 124.62575pt.
 
-Overfull \hbox (0.14601pt too wide) in paragraph at lines 65--66
-[]\C19/rm/m/n/10.53937/42 ä \C19/rm/m/n/10.53937/46 ‚ \C19/rm/m/n/10.53937/54 ˛
- \C19/rm/m/n/10.53937/55 „ \C19/rm/m/n/10.53937/61 ⁄ \C19/rm/m/n/10.53937/48 n|
-\C19/rm/m/n/10.53937/26 ß| \C19/rm/m/n/10.53937/58 ∑ \C19/rm/m/n/10.53937/50 Ç 
-\C19/rm/m/n/10.53937/37 ÿ \C19/rm/m/n/10.53937/51 J \C19/rm/m/n/10.53937/59 é \
-C19/rm/m/n/10.53937/40 ^^T \C19/rm/m/n/10.53937/62 ^ \C19/rm/m/n/10.53937/53 ´ 
-\C19/rm/m/n/10.53937/45 m\OT1/txr/m/n/10.53937 DP\C19/rm/m/n/10.53937/47 è \C19
-/rm/m/n/10.53937/44 x \C19/rm/m/n/10.53937/63 ˘ \C19/rm/m/n/10.53937/42 á \C19/
-rm/m/n/10.53937/51 ^^\ \C19/rm/m/n/10.53937/60 .|\C19/rm/m/n/10.53937/25 "| \C1
-9/rm/m/n/10.53937/58 è \C19/rm/m/n/10.53937/49 
- \C19/rm/m/n/10.53937/41 ê \C19/rm/m/n/10.53937/37 B \C19/rm/m/n/10.53937/50 £ 
-\C19/rm/m/n/10.53937/55 „|\C19/rm/m/n/10.53937/26 ß| \C19/rm/m/n/10.53937/45 P$
-[]\OT1/txr/m/n/10.53937 (\OML/txmi/m/it/10.53937 v; r[]\OT1/txr/m/n/10.53937 )$
-\C19/rm/m/n/10.53937/37 L
- []
+<source/2-2.jpg, id=108, 202.50656pt x 203.25937pt>
+File: source/2-2.jpg Graphic file (type jpg)
+ <use source/2-2.jpg>
+Package pdftex.def Info: source/2-2.jpg used on input line 110.
+(pdftex.def)             Requested size: 124.62439pt x 125.08905pt.
 
+[3 <./source/2-1.jpg> <./source/2-2.jpg>]
+<source/2-3.jpg, id=116, 708.39656pt x 265.74281pt>
+File: source/2-3.jpg Graphic file (type jpg)
+ <use source/2-3.jpg>
+Package pdftex.def Info: source/2-3.jpg used on input line 116.
+(pdftex.def)             Requested size: 332.32959pt x 124.668pt.
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 10.01236pt on input line 85.
+(Font)              scaled to size 10.01236pt on input line 156.
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 7.15169pt on input line 85.
+(Font)              scaled to size 7.15169pt on input line 156.
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 10.01236pt on input line 85.
+(Font)              scaled to size 10.01236pt on input line 156.
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 7.15169pt on input line 85.
+(Font)              scaled to size 7.15169pt on input line 156.
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 10.01236pt on input line 85.
+(Font)              scaled to size 10.01236pt on input line 156.
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 7.15169pt on input line 85.
-[2]
-Overfull \hbox (32.01407pt too wide) in paragraph at lines 104--105
-[]\C19/rm/m/n/10.53937/44 £ \C19/rm/m/n/10.53937/40 ^^T \C19/rm/m/n/10.53937/56
- é \C19/rm/m/n/10.53937/41 { \C19/rm/m/n/10.53937/54 n|\C19/rm/m/n/10.53937/26 
-ß| \C19/rm/m/n/10.53937/37 ÿ \C19/rm/m/n/10.53937/51 J \C19/rm/m/n/10.53937/41 
-u \C19/rm/m/n/10.53937/59 y \C19/rm/m/n/10.53937/40 È \C19/rm/m/n/10.53937/62 u
- \C19/rm/m/n/10.53937/50 z \C19/rm/m/n/10.53937/42 á \C19/rm/m/n/10.53937/65 G 
-\C19/rm/m/n/10.53937/57 ^^U \C19/rm/m/n/10.53937/45 P \C19/rm/m/n/10.53937/49 π
-$\OML/txmi/m/it/10.53937 r[]$\C19/rm/m/n/10.53937/43 ⁄$\OML/txmi/m/it/10.53937 
-r[]$\C19/rm/m/n/10.53937/55 ¥ õ \C19/rm/m/n/10.53937/41 © \C19/rm/m/n/10.53937/
-48 L \C19/rm/m/n/10.53937/41 § \C19/rm/m/n/10.53937/40 ^^[|\C19/rm/m/n/10.53937
-/25 "| \C19/rm/m/n/10.53937/47 ^^? \C19/rm/m/n/10.53937/49 ƒ \C19/rm/m/n/10.539
-37/64 ≠ \C19/rm/m/n/10.53937/60 # \C19/rm/m/n/10.53937/40 Ω \C19/rm/m/n/10.5393
-7/61 ¬ \C19/rm/m/n/10.53937/65 G \C19/rm/m/n/10.53937/57 ^^U|\C19/rm/m/n/10.539
-37/26 ß| \C19/rm/m/n/10.53937/45 P$\OML/txmi/m/it/10.53937 f\OT1/txr/m/n/10.539
-37 (\OML/txmi/m/it/10.53937 s; t\OT1/txr/m/n/10.53937 )$\C19/rm/m/n/10.53937/37
- L
- []
+(Font)              scaled to size 7.15169pt on input line 156.
 
-
-Overfull \hbox (13.39714pt too wide) in paragraph at lines 108--109
-[]\C19/rm/m/n/10.53937/63 2 \C19/rm/m/n/10.53937/45 P$\OML/txmi/m/it/10.53937 f
-l\OT1/txr/m/n/10.53937 (\OML/txmi/m/it/10.53937 s; p; m\OT1/txr/m/n/10.53937 )$
-\C19/rm/m/n/10.53937/37 L \C19/rm/m/n/10.53937/55 ´ \C19/rm/m/n/10.53937/45 Ú$\
-OT1/txr/m/n/10.53937 (\OML/txmi/m/it/10.53937 s; m\OT1/txr/m/n/10.53937 )$\C19/
-rm/m/n/10.53937/62 ^ \C19/rm/m/n/10.53937/54 e \C19/rm/m/n/10.53937/42 Z \C19/r
-m/m/n/10.53937/57 ^ \C19/rm/m/n/10.53937/45 4 \C19/rm/m/n/10.53937/38 ^^? \C19/
-rm/m/n/10.53937/37 > \C19/rm/m/n/10.53937/48 Î \C19/rm/m/n/10.53937/57 œ|\C19/r
-m/m/n/10.53937/26 ß| \C19/rm/m/n/10.53937/65 Å \C19/rm/m/n/10.53937/44 ^^@ \C19
-/rm/m/n/10.53937/61 ò \C19/rm/m/n/10.53937/57 ^ \C19/rm/m/n/10.53937/37 > \C19/
-rm/m/n/10.53937/55 ¥$\OT1/txr/m/n/10.53937 (\OML/txmi/m/it/10.53937 p; m\OT1/tx
-r/m/n/10.53937 )$\C19/rm/m/n/10.53937/55 û|\C19/rm/m/n/10.53937/26 ß| $\OML/txm
-i/m/it/10.53937 s \OT1/txr/m/n/10.53937 + 1\OML/txmi/m/it/10.53937 ; s \OT1/txr
-/m/n/10.53937 + 2\OML/txmi/m/it/10.53937 ; []  ; m \OMS/txsy/m/n/10.53937 ^^@
- []
-
-[3]
-LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 10.01236pt on input line 168.
-LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 7.15169pt on input line 168.
-LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 10.01236pt on input line 168.
-LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 7.15169pt on input line 168.
-LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 10.01236pt on input line 168.
-LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 7.15169pt on input line 168.
- [4]
-Overfull \hbox (1.24219pt too wide) in paragraph at lines 188--189
-[]\C19/rm/m/n/10.53937/40 È \C19/rm/m/n/10.53937/62 u \C19/rm/m/n/10.53937/53 c
- \C19/rm/m/n/10.53937/48 ¸ \C19/rm/m/n/10.53937/42 á \C19/rm/m/n/10.53937/65 f 
-\C19/rm/m/n/10.53937/54 ? \C19/rm/m/n/10.53937/58 ÷|\C19/rm/m/n/10.53937/26 ß| 
-\C19/rm/m/n/10.53937/56 g \C19/rm/m/n/10.53937/58 ë \C19/rm/m/n/10.53937/51 J \
-C19/rm/m/n/10.53937/40 › \C19/rm/m/n/10.53937/46 ^^V \C19/rm/m/n/10.53937/40 $|
-\C19/rm/m/n/10.53937/26 ß| \C19/rm/m/n/10.53937/40 ^^B \C19/rm/m/n/10.53937/47 
-^^? \C19/rm/m/n/10.53937/49 ƒ \C19/rm/m/n/10.53937/40 ^^T \C19/rm/m/n/10.53937/
-47 ^^? \C19/rm/m/n/10.53937/38 | \C19/rm/m/n/10.53937/54 ˛ \C19/rm/m/n/10.53937
-/60 ¿ \C19/rm/m/n/10.53937/55 √ \C19/rm/m/n/10.53937/40 ^^[ \C19/rm/m/n/10.5393
-7/37 ¸ \C19/rm/m/n/10.53937/49 — \C19/rm/m/n/10.53937/40 ^^_ \C19/rm/m/n/10.539
-37/58 Ø \C19/rm/m/n/10.53937/57 K|\C19/rm/m/n/10.53937/26 ß| \C19/rm/m/n/10.539
-37/62 ˝ \C19/rm/m/n/10.53937/45 O \C19/rm/m/n/10.53937/62 k$\OT1/txr/m/n/10.539
-37 80%$\C19/rm/m/n/10.53937/40 ^^[
- []
-
-[5] [6] (./editorial.aux) ) 
+[4 <./source/2-3.jpg>] [5] (./editorial.aux) ) 
 Here is how much of TeX's memory you used:
- 17430 strings out of 492995
- 307480 string characters out of 6136402
- 328800 words of memory out of 5000000
- 20464 multiletter control sequences out of 15000+600000
- 73487 words of font info for 221 fonts, out of 8000000 for 9000
+ 17162 strings out of 492995
+ 300686 string characters out of 6136402
+ 326800 words of memory out of 5000000
+ 20230 multiletter control sequences out of 15000+600000
+ 65246 words of font info for 192 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,15n,50p,10453b,465s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/WINDOWS/fonts/simkai.ttf><c:/WINDOWS/fonts/simka
-i.ttf><c:/WINDOWS/fonts/simkai.ttf><c:/WINDOWS/fonts/simkai.ttf><c:/WINDOWS/fon
-ts/simkai.ttf><c:/WINDOWS/fonts/simkai.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WIN
-DOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simkai.ttf><c:/WINDOWS/fonts/simkai.ttf
-><c:/WINDOWS/fonts/simkai.ttf><c:/WINDOWS/fonts/simkai.ttf><c:/WINDOWS/fonts/si
-mkai.ttf><c:/WINDOWS/fonts/simkai.ttf><c:/WINDOWS/fonts/simkai.ttf><c:/WINDOWS/
-fonts/simkai.ttf><c:/WINDOWS/fonts/simkai.ttf><c:/WINDOWS/fonts/simkai.ttf><c:/
-WINDOWS/fonts/simkai.ttf><c:/WINDOWS/fonts/simkai.ttf><c:/WINDOWS/fonts/simkai.
-ttf><c:/WINDOWS/fonts/simkai.ttf><c:/WINDOWS/fonts/simkai.ttf><c:/WINDOWS/fonts
-/simkai.ttf><c:/WINDOWS/fonts/simkai.ttf><c:/WINDOWS/fonts/simkai.ttf><c:/WINDO
-WS/fonts/simkai.ttf><c:/WINDOWS/fonts/simkai.ttf>{c:/texlive/2017/texmf-dist/fo
-nts/enc/dvips/base/8r.enc}<c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei
-.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/font
-s/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WIND
-OWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf>
-<c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/sim
-sun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/f
-onts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/W
-INDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.t
-tc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/
-simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOW
-S/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c
-:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsu
-n.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fon
-ts/simhei.ttf><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simhei.ttf><c:/WIN
-DOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simsun.ttc
-><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/si
-msun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/
-fonts/simsun.ttc><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/
-WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.
+ 47i,15n,47p,10453b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/WINDOWS/fonts/simkai.ttf><c:/
+WINDOWS/fonts/simkai.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.
 ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts
-/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDO
-WS/fonts/simhei.ttf><c:/texlive/2017/texmf-dist/fonts/type1/public/txfonts/rtxm
-i.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><c:/texli
-ve/2017/texmf-dist/fonts/type1/public/txfonts/txex.pfb><c:/texlive/2017/texmf-d
-ist/fonts/type1/public/txfonts/txsy.pfb><c:/texlive/2017/texmf-dist/fonts/type1
-/public/txfonts/txsya.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/txfont
-s/txsyc.pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:
-/texlive/2017/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2017/texm
-f-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2017/texmf-dist/fonts/type1
-/urw/times/utmri8a.pfb>
-Output written on editorial.pdf (6 pages, 423171 bytes).
+/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDO
+WS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><
+c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/sims
+un.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fo
+nts/simsun.ttc><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WI
+NDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.tt
+c><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/s
+imsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS
+/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:
+/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun
+.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc>{c:/texlive/2017
+/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/WINDOWS/fonts/simsun.ttc><c:/WINDOW
+S/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simsun.ttc><c
+:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsu
+n.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fon
+ts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simhei.ttf><c:/WIN
+DOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf
+><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/si
+mhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/
+fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/
+WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.
+ttf><c:/WINDOWS/fonts/simhei.ttf><c:/texlive/2017/texmf-dist/fonts/type1/public
+/txfonts/rtxmi.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/txfonts/rtxr.
+pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/txfonts/txex.pfb><c:/texlive
+/2017/texmf-dist/fonts/type1/public/txfonts/txsy.pfb><c:/texlive/2017/texmf-dis
+t/fonts/type1/public/txfonts/txsya.pfb><c:/texlive/2017/texmf-dist/fonts/type1/
+public/txfonts/txsyc.pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/helvetic/u
+hvr8a.pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texl
+ive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2017/texmf-dis
+t/fonts/type1/urw/times/utmri8a.pfb>
+Output written on editorial.pdf (5 pages, 391523 bytes).
 PDF statistics:
- 438 PDF objects out of 1000 (max. 8388607)
- 300 compressed objects within 3 object streams
+ 350 PDF objects out of 1000 (max. 8388607)
+ 232 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 129 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 144 words of extra memory for PDF output out of 10000 (max. 10000000)
 
