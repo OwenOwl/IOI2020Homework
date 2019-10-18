@@ -54,7 +54,7 @@ A=\sum_{i=1} \mu(i)f(i)
 这一部分仍然可以使用 $\mu$ 函数进行容斥。对于 $x$ 的每个非 $1$ 约数 $d$，再从 $B$ 中减去含这个约数的子集个数，即此部分的答案为：
 
 \begin{displaymath}
-\textrm{answer of } x = B-\sum_{d|x,d\ne 1} \mu(d)f(d)
+\textrm{answer of } x = B+\sum_{d|x,d\ne 1} \mu(d)f(d)
 \end{displaymath}
 
 最后将所有枚举 $x$ 所得到的答案求和，即是最终的答案。
