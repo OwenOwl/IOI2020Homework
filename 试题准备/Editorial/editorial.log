@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.16)  22 OCT 2019 08:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.16)  30 OCT 2019 11:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1022,16 +1022,16 @@ quanjiao) on input line 24.
 <<c1953.cmap>><<c1962.cmap>><<c1936.cmap>><<c1947.cmap>><<c1949.cmap>><<c1925.c
 map>><<c1951.cmap>><<c1958.cmap>><<c1959.cmap>><<c1956.cmap>><<c1954.cmap>><<c1
 944.cmap>><<c1950.cmap>>
-LaTeX Font Info:    Try loading font information for OT1+txss on input line 51.
+LaTeX Font Info:    Try loading font information for OT1+txss on input line 48.
 
  (c:/texlive/2017/texmf-dist/tex/latex/txfonts/ot1txss.fd
 File: ot1txss.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 10.01236pt on input line 51.
+(Font)              scaled to size 10.01236pt on input line 48.
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 7.15169pt on input line 51.
-LaTeX Font Info:    Try loading font information for C19+zhhei on input line 51
+(Font)              scaled to size 7.15169pt on input line 48.
+LaTeX Font Info:    Try loading font information for C19+zhhei on input line 48
 .
 
 (c:/texlive/2017/texmf-dist/tex/latex/zhmetrics/c19zhhei.fd
@@ -1042,80 +1042,68 @@ File: c19zhhei.fd 2009/09/23 4.8.2
 <source/2-1.jpg, id=107, 202.50656pt x 202.50656pt>
 File: source/2-1.jpg Graphic file (type jpg)
  <use source/2-1.jpg>
-Package pdftex.def Info: source/2-1.jpg used on input line 106.
+Package pdftex.def Info: source/2-1.jpg used on input line 112.
 (pdftex.def)             Requested size: 124.62439pt x 124.62575pt.
 
 <source/2-2.jpg, id=108, 202.50656pt x 203.25937pt>
 File: source/2-2.jpg Graphic file (type jpg)
  <use source/2-2.jpg>
-Package pdftex.def Info: source/2-2.jpg used on input line 110.
+Package pdftex.def Info: source/2-2.jpg used on input line 116.
 (pdftex.def)             Requested size: 124.62439pt x 125.08905pt.
 
-[3 <./source/2-1.jpg> <./source/2-2.jpg>]
-<source/2-3.jpg, id=116, 708.39656pt x 265.74281pt>
+[3 <./source/2-1.jpg>] <source/2-3.jpg, id=116, 708.39656pt x 265.74281pt>
 File: source/2-3.jpg Graphic file (type jpg)
- <use source/2-3.jpg>
-Package pdftex.def Info: source/2-3.jpg used on input line 116.
-(pdftex.def)             Requested size: 332.32959pt x 124.668pt.
-LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 10.01236pt on input line 156.
-LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 7.15169pt on input line 156.
-LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 10.01236pt on input line 156.
-LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 7.15169pt on input line 156.
-LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 10.01236pt on input line 156.
-LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 7.15169pt on input line 156.
 
-[4 <./source/2-3.jpg>] [5] (./editorial.aux) ) 
+<use source/2-3.jpg>
+Package pdftex.def Info: source/2-3.jpg used on input line 122.
+(pdftex.def)             Requested size: 332.32959pt x 124.668pt.
+<<c1977.cmap>> [4 <./source/2-2.jpg> <./source/2-3.jpg>]
+[5] [6] (./editorial.aux) ) 
 Here is how much of TeX's memory you used:
- 17162 strings out of 492995
- 300686 string characters out of 6136402
+ 17223 strings out of 492995
+ 301805 string characters out of 6136402
  326800 words of memory out of 5000000
- 20230 multiletter control sequences out of 15000+600000
- 65246 words of font info for 192 fonts, out of 8000000 for 9000
+ 20288 multiletter control sequences out of 15000+600000
+ 65786 words of font info for 194 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,15n,47p,10453b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/WINDOWS/fonts/simkai.ttf><c:/
-WINDOWS/fonts/simkai.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.
-ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts
-/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDO
-WS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><
-c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/sims
-un.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fo
-nts/simsun.ttc><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WI
-NDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.tt
-c><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/s
-imsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS
-/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:
-/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun
-.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc>{c:/texlive/2017
-/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/WINDOWS/fonts/simsun.ttc><c:/WINDOW
-S/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simsun.ttc><c
-:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsu
-n.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fon
-ts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simhei.ttf><c:/WIN
+ 47i,15n,47p,10453b,421s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/WINDOWS/fonts/simkai.ttf><c:/WINDOWS/fonts/simka
+i.ttf><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fon
+ts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WIN
 DOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf
-><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/si
-mhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/
-fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/
-WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.
-ttf><c:/WINDOWS/fonts/simhei.ttf><c:/texlive/2017/texmf-dist/fonts/type1/public
-/txfonts/rtxmi.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/txfonts/rtxr.
-pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/txfonts/txex.pfb><c:/texlive
-/2017/texmf-dist/fonts/type1/public/txfonts/txsy.pfb><c:/texlive/2017/texmf-dis
-t/fonts/type1/public/txfonts/txsya.pfb><c:/texlive/2017/texmf-dist/fonts/type1/
-public/txfonts/txsyc.pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/helvetic/u
-hvr8a.pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texl
-ive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2017/texmf-dis
-t/fonts/type1/urw/times/utmri8a.pfb>
-Output written on editorial.pdf (5 pages, 391531 bytes).
+><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/si
+msun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/
+fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simhei.ttf><c:/
+WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.
+ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts
+/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDO
+WS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><
+c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/sims
+un.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fo
+nts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc>{c:/te
+xlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/WINDOWS/fonts/simsun.ttc>
+<c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/sim
+sun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/f
+onts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/W
+INDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simhei.t
+tf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/
+simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOW
+S/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c
+:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhe
+i.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fon
+ts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/texlive/2017/texmf-dist/fonts/ty
+pe1/public/txfonts/rtxmi.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/txf
+onts/rtxr.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/txfonts/txex.pfb><
+c:/texlive/2017/texmf-dist/fonts/type1/public/txfonts/txsy.pfb><c:/texlive/2017
+/texmf-dist/fonts/type1/public/txfonts/txsya.pfb><c:/texlive/2017/texmf-dist/fo
+nts/type1/public/txfonts/txsyc.pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/
+helvetic/uhvr8a.pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/times/utmb8a.pf
+b><c:/texlive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2017
+/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on editorial.pdf (6 pages, 411499 bytes).
 PDF statistics:
- 350 PDF objects out of 1000 (max. 8388607)
- 232 compressed objects within 3 object streams
+ 358 PDF objects out of 1000 (max. 8388607)
+ 237 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 144 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 148 words of extra memory for PDF output out of 10000 (max. 10000000)
 
