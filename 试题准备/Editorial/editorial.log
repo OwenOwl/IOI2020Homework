@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.16)  30 OCT 2019 11:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2019.11.16)  16 NOV 2019 23:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,9 +8,9 @@ LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (./noithesis.cls
 Document Class: noithesis 2013/02/16 1.0 Template for NOI Thesis
-(c:/texlive/2017/texmf-dist/tex/latex/base/article.cls
+(f:/texlive/2017/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(c:/texlive/2017/texmf-dist/tex/latex/base/size12.clo
+(f:/texlive/2017/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -25,35 +25,35 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(c:/texlive/2017/texmf-dist/tex/latex/tools/enumerate.sty
+(f:/texlive/2017/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks14
 )
-(c:/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+(f:/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+(f:/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 )
-(c:/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+(f:/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+(f:/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(f:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(c:/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+(f:/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
 
-(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(f:/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(f:/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count87
@@ -61,7 +61,7 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-(c:/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.sty
+(f:/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.sty
 Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfigtopskip=\skip43
 \subfigcapskip=\skip44
@@ -77,28 +77,28 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
-(c:/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+(f:/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.cfg)
 \subfig@top=\skip47
 \subfig@bottom=\skip48
 )
-(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+(f:/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2016/11/05 v2.16a AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
-(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+(f:/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+(f:/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen107
 ))
-(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(f:/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen108
 )
-(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+(f:/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count92
@@ -139,7 +139,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-(c:/texlive/2017/texmf-dist/tex/latex/amscls/amsthm.sty
+(f:/texlive/2017/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2015/03/04 v2.20.2
 \thm@style=\toks21
 \thm@bodyfont=\toks22
@@ -151,17 +151,17 @@ Package: amsthm 2015/03/04 v2.20.2
 \thm@headsep=\skip54
 \dth@everypar=\toks26
 )
-(c:/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(f:/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-(c:/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(f:/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-(c:/texlive/2017/texmf-dist/tex/latex/tools/bm.sty
+(f:/texlive/2017/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup6
 \symboldletters=\mathgroup7
@@ -169,7 +169,7 @@ Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 207.
 )
-(c:/texlive/2017/texmf-dist/tex/latex/txfonts/txfonts.sty
+(f:/texlive/2017/texmf-dist/tex/latex/txfonts/txfonts.sty
 Package: txfonts 2008/01/22 v3.2.1
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -252,23 +252,23 @@ LaTeX Info: Redefining \not on input line 1043.
 LaTeX Info: Redefining \textsquare on input line 1063.
 LaTeX Info: Redefining \openbox on input line 1064.
 )
-(c:/texlive/2017/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+(f:/texlive/2017/texmf-dist/tex/latex/cjk/texinput/CJK.sty
 Package: CJK 2015/04/18 4.8.4
 
-(c:/texlive/2017/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+(f:/texlive/2017/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
 Package: MULEenc 2015/04/18 4.8.4
 )
-(c:/texlive/2017/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+(f:/texlive/2017/texmf-dist/tex/latex/cjk/texinput/CJK.enc
 File: CJK.enc 2015/04/18 4.8.4
 )
 LaTeX Info: Redefining \selectfont on input line 755.
 \CJK@indent=\box28
 )
-(c:/texlive/2017/texmf-dist/tex/latex/ctex/ctex.sty
-(c:/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3.sty
+(f:/texlive/2017/texmf-dist/tex/latex/ctex/ctex.sty
+(f:/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2017/05/13 L3 programming layer (loader) 
 
-(c:/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+(f:/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2017/05/13 L3 programming layer (code)
 \c_max_int=\count104
 \l_tmpa_int=\count105
@@ -364,14 +364,14 @@ Package: expl3 2017/05/13 L3 programming layer (code)
 \l__coffin_scaled_total_height_dim=\dimen145
 \l__coffin_scaled_width_dim=\dimen146
 )
-(c:/texlive/2017/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+(f:/texlive/2017/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
 File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count139
 \l__driver_tmp_box=\box44
 ))
 Package: ctex 2017/04/01 v2.4.9 Chinese adapter in LaTeX (CTEX)
 
-(c:/texlive/2017/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(f:/texlive/2017/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2017/05/13 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count140
 \g__xparse_grabber_int=\count141
@@ -379,37 +379,37 @@ Package: xparse 2017/05/13 L3 Experimental document command parser
 \l__xparse_mandatory_args_int=\count143
 \l__xparse_v_nesting_int=\count144
 )
-(c:/texlive/2017/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(f:/texlive/2017/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2017/05/13 LaTeX2e option processing using LaTeX3 keys
 )
 \g__file_internal_ior=\read1
 
-(c:/texlive/2017/texmf-dist/tex/latex/ctex/ctexhook.sty
+(f:/texlive/2017/texmf-dist/tex/latex/ctex/ctexhook.sty
 Package: ctexhook 2017/04/01 v2.4.9 Document and package hooks (CTEX)
 )
-(c:/texlive/2017/texmf-dist/tex/latex/ctex/ctexpatch.sty
+(f:/texlive/2017/texmf-dist/tex/latex/ctex/ctexpatch.sty
 Package: ctexpatch 2017/04/01 v2.4.9 Patching commands (CTEX)
 )
-(c:/texlive/2017/texmf-dist/tex/latex/base/fix-cm.sty
+(f:/texlive/2017/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
 
-(c:/texlive/2017/texmf-dist/tex/latex/base/ts1enc.def
+(f:/texlive/2017/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 ))
-(c:/texlive/2017/texmf-dist/tex/latex/ms/everysel.sty
+(f:/texlive/2017/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \l__ctex_tmp_int=\count145
 \l__ctex_tmp_box=\box45
 \l__ctex_tmp_dim=\dimen147
 
-(c:/texlive/2017/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+(f:/texlive/2017/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
 File: ctexopts.cfg 2017/04/01 v2.4.9 Option configuration file (CTEX)
 )
-(c:/texlive/2017/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+(f:/texlive/2017/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
 File: ctex-engine-pdftex.def 2017/04/01 v2.4.9 (pdf)LaTeX adapter (CTEX)
 
-(c:/texlive/2017/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+(f:/texlive/2017/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
 Package: CJKpunct 2016/05/14 4.8.4
 \CJKpunct@cnta=\count146
 \CJKpunct@cntb=\count147
@@ -417,23 +417,23 @@ Package: CJKpunct 2016/05/14 4.8.4
 \CJKpunct@cntd=\count149
 \CJKpunct@cnte=\count150
 
-(c:/texlive/2017/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa))
-(c:/texlive/2017/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+(f:/texlive/2017/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa))
+(f:/texlive/2017/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
 Package: CJKspace 2015/04/18 3.8.0
 )
-(c:/texlive/2017/texmf-dist/tex/latex/cjk/texinput/standard.bdg
+(f:/texlive/2017/texmf-dist/tex/latex/cjk/texinput/standard.bdg
 File: standard.bdg 2015/04/18 4.8.4
 )
-(c:/texlive/2017/texmf-dist/tex/latex/ctex/ctexspa.def
+(f:/texlive/2017/texmf-dist/tex/latex/ctex/ctexspa.def
 File: ctexspa.def 2017/04/01 v2.4.9 Space info for CJKpunct (CTEX)
 )
-(c:/texlive/2017/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
+(f:/texlive/2017/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
 Package: CJKfntef 2015/04/18 4.8.4
 
-(c:/texlive/2017/texmf-dist/tex/latex/cjk/texinput/CJKulem.sty
+(f:/texlive/2017/texmf-dist/tex/latex/cjk/texinput/CJKulem.sty
 Package: CJKulem 2015/04/18 4.8.4
 
-(c:/texlive/2017/texmf-dist/tex/generic/ulem/ulem.sty
+(f:/texlive/2017/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box46
 \UL@hyphenbox=\box47
 \UL@skip=\skip61
@@ -495,7 +495,7 @@ Package: ulem 2012/05/18
 . Defining command \CTEXnoindent with sig. '' on line 525.
 .................................................
 
-(c:/texlive/2017/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+(f:/texlive/2017/texmf-dist/tex/latex/zhnumber/zhnumber.sty
 Package: zhnumber 2016/05/14 v2.4 Typesetting numbers with Chinese glyphs
 .................................................
 . LaTeX info: "xparse/define-command"
@@ -557,7 +557,7 @@ Package: zhnumber 2016/05/14 v2.4 Typesetting numbers with Chinese glyphs
 . Defining command \zhnumsetup with sig. '+m' on line 938.
 .................................................
 
-(c:/texlive/2017/texmf-dist/tex/latex/zhnumber/zhnumber-gbk.cfg
+(f:/texlive/2017/texmf-dist/tex/latex/zhnumber/zhnumber-gbk.cfg
 File: zhnumber-gbk.cfg 2016/05/14 v2.4 Chinese numerals with GBK encoding
 ))
 .................................................
@@ -571,14 +571,14 @@ File: zhnumber-gbk.cfg 2016/05/14 v2.4 Chinese numerals with GBK encoding
 . Defining command \CTEXdigits with sig. 'mm' on line 544.
 .................................................
 
-(c:/texlive/2017/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
+(f:/texlive/2017/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
 File: ctex-scheme-chinese.def 2017/04/01 v2.4.9 Chinese scheme for generic (CTE
 X)
 
-(c:/texlive/2017/texmf-dist/tex/latex/ctex/config/ctex-name-gbk.cfg
+(f:/texlive/2017/texmf-dist/tex/latex/ctex/config/ctex-name-gbk.cfg
 File: ctex-name-gbk.cfg 2017/04/01 v2.4.9 Caption with encoding GBK (CTEX)
 ))
-(c:/texlive/2017/texmf-dist/tex/latex/tools/indentfirst.sty
+(f:/texlive/2017/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
 .................................................
@@ -587,7 +587,7 @@ Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 . Defining command \zihao with sig. 'm' on line 641.
 .................................................
 
-(c:/texlive/2017/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+(f:/texlive/2017/texmf-dist/tex/latex/ctex/ctex-c5size.clo
 File: ctex-c5size.clo 2017/04/01 v2.4.9 c5size option (CTEX)
 )
 .................................................
@@ -596,18 +596,18 @@ File: ctex-c5size.clo 2017/04/01 v2.4.9 c5size option (CTEX)
 . Defining command \CTeX with sig. '' on line 745.
 .................................................
 
-(c:/texlive/2017/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+(f:/texlive/2017/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
 File: ctex-fontset-windows.def 2017/04/01 v2.4.9 Windows fonts definition (CTEX
 )
 
-(c:/texlive/2017/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windowsnew.def
+(f:/texlive/2017/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windowsnew.def
 File: ctex-fontset-windowsnew.def 2017/04/01 v2.4.9 Windows fonts definition fo
 r Vista or later version (CTEX)
 
-(c:/texlive/2017/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+(f:/texlive/2017/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
 File: zhwindowsfonts.tex 2017/04/01 v2.4.9 Windows font map loader for pdfTeX a
 nd DVIPDFMx (CTEX)
-{c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{UGBK.sfd}{Unicod
+{f:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{UGBK.sfd}{Unicod
 e.sfd})
 .................................................
 . LaTeX info: "xparse/define-command"
@@ -645,10 +645,10 @@ e.sfd})
 . Defining command \yahei with sig. '' on line 116.
 .................................................
 )))
-(c:/texlive/2017/texmf-dist/tex/latex/ctex/config/ctex.cfg
+(f:/texlive/2017/texmf-dist/tex/latex/ctex/config/ctex.cfg
 File: ctex.cfg 2017/04/01 v2.4.9 Configuration file (CTEX)
 )
-(c:/texlive/2017/texmf-dist/tex/latex/tools/longtable.sty
+(f:/texlive/2017/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip65
 \LTright=\skip66
@@ -666,25 +666,25 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count160
 \LT@p@ftn=\toks28
 )
-(c:/texlive/2017/texmf-dist/tex/latex/multirow/multirow.sty
+(f:/texlive/2017/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
 \multirow@colwidth=\skip69
 \multirow@cntb=\count161
 \multirow@dima=\skip70
 \bigstrutjot=\dimen157
 )
-(c:/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+(f:/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-(c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(f:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-(c:/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
+(f:/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(f:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -699,13 +699,13 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(c:/texlive/2017/texmf-dist/tex/latex/psnfss/courier.sty
+(f:/texlive/2017/texmf-dist/tex/latex/psnfss/courier.sty
 Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
-(c:/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+(f:/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(c:/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
+(f:/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count162
 \calc@Bcount=\count163
@@ -718,16 +718,16 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count164
 \calc@Cskip=\skip73
 )
-(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(f:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-(c:/texlive/2017/texmf-dist/tex/latex/titling/titling.sty
+(f:/texlive/2017/texmf-dist/tex/latex/titling/titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip74
 \thanksmargin=\skip75
 \droptitle=\skip76
 )
-(c:/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
+(f:/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count165
 \lst@gtempboxa=\box55
 \lst@token=\toks29
@@ -741,18 +741,18 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 \lst@lineno=\count170
 \lst@maxwidth=\dimen163
 
-(c:/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
+(f:/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 \c@lstnumber=\count171
 \lst@skipnumbers=\count172
 \lst@framebox=\box56
 )
-(c:/texlive/2017/texmf-dist/tex/latex/listings/listings.cfg
+(f:/texlive/2017/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
-(c:/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(f:/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
 \fancy@headwidth=\skip77
 \f@ncyO@elh=\skip78
@@ -764,11 +764,11 @@ Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
 \f@ncyO@olf=\skip84
 \f@ncyO@orf=\skip85
 )
-(c:/texlive/2017/texmf-dist/tex/latex/algorithms/algorithm.sty
+(f:/texlive/2017/texmf-dist/tex/latex/algorithms/algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
 
-(c:/texlive/2017/texmf-dist/tex/latex/float/float.sty
+(f:/texlive/2017/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count173
 \float@exts=\toks30
@@ -779,7 +779,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@every@algorithm=\toks32
 \c@algorithm=\count174
 )
-(c:/texlive/2017/texmf-dist/tex/latex/algorithms/algorithmic.sty
+(f:/texlive/2017/texmf-dist/tex/latex/algorithms/algorithmic.sty
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 \c@ALC@unique=\count175
 \c@ALC@line=\count176
@@ -788,7 +788,7 @@ Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 \ALC@tlm=\skip86
 \algorithmicindent=\skip87
 )
-(c:/texlive/2017/texmf-dist/tex/latex/booktabs/booktabs.sty
+(f:/texlive/2017/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \heavyrulewidth=\dimen164
 \lightrulewidth=\dimen165
@@ -813,10 +813,10 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \c@theorem=\count183
 \c@property=\count184
 
-(c:/texlive/2017/texmf-dist/tex/latex/cjk/texinput/extended.enc
+(f:/texlive/2017/texmf-dist/tex/latex/cjk/texinput/extended.enc
 File: extended.enc 2015/04/18 4.8.4
 )
-(c:/texlive/2017/texmf-dist/tex/latex/cjk/texinput/extended.chr
+(f:/texlive/2017/texmf-dist/tex/latex/cjk/texinput/extended.chr
 File: extended.chr 2015/04/18 4.8.4
 )
 (./editorial.aux)
@@ -824,7 +824,7 @@ File: extended.chr 2015/04/18 4.8.4
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 9.
 LaTeX Font Info:    Try loading font information for OML+txmi on input line 9.
- (c:/texlive/2017/texmf-dist/tex/latex/txfonts/omltxmi.fd
+ (f:/texlive/2017/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 9.
@@ -835,21 +835,21 @@ LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 9.
 LaTeX Font Info:    Try loading font information for OMS+txsy on input line 9.
 
-(c:/texlive/2017/texmf-dist/tex/latex/txfonts/omstxsy.fd
+(f:/texlive/2017/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 9.
 LaTeX Font Info:    Try loading font information for OMX+txex on input line 9.
 
-(c:/texlive/2017/texmf-dist/tex/latex/txfonts/omxtxex.fd
+(f:/texlive/2017/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 9.
 LaTeX Font Info:    Try loading font information for U+txexa on input line 9.
 
-(c:/texlive/2017/texmf-dist/tex/latex/txfonts/utxexa.fd
+(f:/texlive/2017/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 9.
@@ -921,10 +921,10 @@ LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Try loading font information for OT1+txr on input line 9.
 
-(c:/texlive/2017/texmf-dist/tex/latex/txfonts/ot1txr.fd
+(f:/texlive/2017/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
-(c:/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(f:/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count185
 \scratchdimen=\dimen177
@@ -937,11 +937,11 @@ File: ot1txr.fd 2000/12/15 v3.1
 \MPnumerator=\count189
 \makeMPintoPDFobject=\count190
 \everyMPtoPDFconversion=\toks34
-) (c:/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+) (f:/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(f:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -950,22 +950,22 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(f:/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+(f:/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+(f:/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
-(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(f:/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(f:/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(f:/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -979,7 +979,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 
-(c:/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(f:/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -988,33 +988,33 @@ LaTeX Info: Redefining \selectfont on input line 9.
 \c@lstlisting=\count191
 LaTeX Font Info:    Try loading font information for C19+rm on input line 14.
 
-(c:/texlive/2017/texmf-dist/tex/latex/ctex/fd/c19rm.fd
+(f:/texlive/2017/texmf-dist/tex/latex/ctex/fd/c19rm.fd
 File: c19rm.fd 2017/04/01 v2.4.9 Chinese font definition (CTEX)
 )<<c1964.cmap>><<c1943.cmap>><<c1945.cmap>><<c1960.cmap>><<c1940.cmap>><<c1961.
 cmap>><<c1946.cmap>><<c1965.cmap>><<c1957.cmap>><<c1937.cmap>><<c1942.cmap>><<c
 1938.cmap>><<c1955.cmap>><<c1952.cmap>><<c1941.cmap>><<c1948.cmap>>
 LaTeX Font Info:    Try loading font information for C19+hei on input line 18.
 
-(c:/texlive/2017/texmf-dist/tex/latex/zhmetrics/c19hei.fd
+(f:/texlive/2017/texmf-dist/tex/latex/zhmetrics/c19hei.fd
 File: c19hei.fd 2009/09/23 4.8.2
 )<<c1963.cmap>><<c1939.cmap>>
 LaTeX Font Info:    Try loading font information for U+txsya on input line 24.
- (c:/texlive/2017/texmf-dist/tex/latex/txfonts/utxsya.fd
+ (f:/texlive/2017/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Try loading font information for U+txsyb on input line 24.
 
-(c:/texlive/2017/texmf-dist/tex/latex/txfonts/utxsyb.fd
+(f:/texlive/2017/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Try loading font information for U+txmia on input line 24.
 
-(c:/texlive/2017/texmf-dist/tex/latex/txfonts/utxmia.fd
+(f:/texlive/2017/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Try loading font information for U+txsyc on input line 24.
 
-(c:/texlive/2017/texmf-dist/tex/latex/txfonts/utxsyc.fd
+(f:/texlive/2017/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )<<c1926.cmap>>
 Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (
@@ -1024,7 +1024,7 @@ map>><<c1951.cmap>><<c1958.cmap>><<c1959.cmap>><<c1956.cmap>><<c1954.cmap>><<c1
 944.cmap>><<c1950.cmap>>
 LaTeX Font Info:    Try loading font information for OT1+txss on input line 48.
 
- (c:/texlive/2017/texmf-dist/tex/latex/txfonts/ot1txss.fd
+ (f:/texlive/2017/texmf-dist/tex/latex/txfonts/ot1txss.fd
 File: ot1txss.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
@@ -1034,7 +1034,7 @@ LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
 LaTeX Font Info:    Try loading font information for C19+zhhei on input line 48
 .
 
-(c:/texlive/2017/texmf-dist/tex/latex/zhmetrics/c19zhhei.fd
+(f:/texlive/2017/texmf-dist/tex/latex/zhmetrics/c19zhhei.fd
 File: c19zhhei.fd 2009/09/23 4.8.2
 ) [1
 
@@ -1061,44 +1061,44 @@ Package pdftex.def Info: source/2-3.jpg used on input line 122.
 [5] [6] (./editorial.aux) ) 
 Here is how much of TeX's memory you used:
  17223 strings out of 492995
- 301805 string characters out of 6136402
+ 301805 string characters out of 6136401
  326800 words of memory out of 5000000
  20288 multiletter control sequences out of 15000+600000
  65786 words of font info for 194 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  47i,15n,47p,10453b,421s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/WINDOWS/fonts/simkai.ttf><c:/WINDOWS/fonts/simka
-i.ttf><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fon
-ts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WIN
-DOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf
-><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/si
-msun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/
-fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simhei.ttf><c:/
-WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.
-ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts
-/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDO
-WS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><
-c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/sims
-un.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fo
-nts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc>{c:/te
-xlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/WINDOWS/fonts/simsun.ttc>
-<c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/sim
-sun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/f
-onts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/W
-INDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simsun.ttc><c:/WINDOWS/fonts/simhei.t
-tf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/
-simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOW
-S/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c
-:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhe
-i.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fon
-ts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/texlive/2017/texmf-dist/fonts/ty
-pe1/public/txfonts/rtxmi.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/txf
-onts/rtxr.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/txfonts/txex.pfb><
-c:/texlive/2017/texmf-dist/fonts/type1/public/txfonts/txsy.pfb><c:/texlive/2017
-/texmf-dist/fonts/type1/public/txfonts/txsya.pfb><c:/texlive/2017/texmf-dist/fo
-nts/type1/public/txfonts/txsyc.pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/
-helvetic/uhvr8a.pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/times/utmb8a.pf
-b><c:/texlive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2017
+<c:/Windows/fonts/simkai.ttf><c:/Windows/fonts/simka
+i.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows/fon
+ts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Win
+dows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf
+><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/si
+msun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/
+fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/
+Windows/fonts/simsun.ttc><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.
+ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts
+/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windo
+ws/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><
+c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/sims
+un.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fo
+nts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc>{f:/te
+xlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/Windows/fonts/simsun.ttc>
+<c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/sim
+sun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/f
+onts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/W
+indows/fonts/simsun.ttc><c:/Windows/fonts/simsun.ttc><c:/Windows/fonts/simhei.t
+tf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/
+simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Window
+s/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c
+:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhe
+i.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fonts/simhei.ttf><c:/Windows/fon
+ts/simhei.ttf><c:/Windows/fonts/simhei.ttf><f:/texlive/2017/texmf-dist/fonts/ty
+pe1/public/txfonts/rtxmi.pfb><f:/texlive/2017/texmf-dist/fonts/type1/public/txf
+onts/rtxr.pfb><f:/texlive/2017/texmf-dist/fonts/type1/public/txfonts/txex.pfb><
+f:/texlive/2017/texmf-dist/fonts/type1/public/txfonts/txsy.pfb><f:/texlive/2017
+/texmf-dist/fonts/type1/public/txfonts/txsya.pfb><f:/texlive/2017/texmf-dist/fo
+nts/type1/public/txfonts/txsyc.pfb><f:/texlive/2017/texmf-dist/fonts/type1/urw/
+helvetic/uhvr8a.pfb><f:/texlive/2017/texmf-dist/fonts/type1/urw/times/utmb8a.pf
+b><f:/texlive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><f:/texlive/2017
 /texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
 Output written on editorial.pdf (6 pages, 411499 bytes).
 PDF statistics:
